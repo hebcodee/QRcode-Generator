@@ -1,6 +1,6 @@
 # QR Code Generator
 
-## Projeto Java (Maven) que gera imagens de QR Code a partir de texto ou URLs. Utiliza a biblioteca [Nayuki QR Code Generator](https://www.nayuki.io/page/qr-code-generator-library) para codificar o conteúdo e produzir um `BufferedImage` em PNG. O código permite configurar escala, borda e cores (claro/escuro) do QR Code.
+Projeto Java (Maven) que gera imagens de QR Code a partir de texto ou URLs. Utiliza a biblioteca [Nayuki QR Code Generator](https://www.nayuki.io/page/qr-code-generator-library) para codificar o conteúdo e produzir um `BufferedImage` em PNG. O código permite configurar escala, borda e cores (claro/escuro) do QR Code.
 
 ## How to use
 
