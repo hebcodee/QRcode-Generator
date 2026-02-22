@@ -20,17 +20,17 @@ Projeto Java (Maven) que gera imagens de QR Code a partir de texto ou URLs. Util
 3. **Personalize o conteudo:**
    Edite a variável `texto` em `src/main/java/dev/heb/Main.java` com o texto ou URL desejado e execute novamente:
 
-```java
-String texto = "https://www.google.com";  // Altere aqui
-```
+   ```java
+   String texto = "https://www.google.com";  // Altere aqui
+   ```
 
-3. **Execute a classe principal:**
+4. **Execute a classe principal:**
 
    ```bash
    mvn exec:java -Dexec.mainClass="dev.heb.Main"
    ```
 
-4. O QR Code será gerado no arquivo **`qrcode.png`** na raiz do projeto.
+5. O QR Code será gerado no arquivo **`qrcode.png`** na raiz do projeto.
 
 ---
 
